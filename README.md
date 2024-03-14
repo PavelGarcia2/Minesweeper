@@ -5,4 +5,5 @@
 <p>Now, I won't lie to you - it's a game of strategy, cunning, and a fair bit of luck. Sometimes you'll feel like a mastermind, carefully deducing where the mines must be hidden. Other times, you'll click on a random cell and pray it's not the one that sends you back to the start!</p>
 <p>So, are you ready to embark on this perilous journey? Will you emerge victorious, or will you end up feeling like you've been through a minefield? There's only one way to find out - let's play some Minesweeper and see if we can uncover the treasure without blowing ourselves to smithereens!</p>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pavelgarcia2&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/60678482/160945749-2c959c2c-9cef-48b6-8b86-c78e4993f498.png)https://user-images.githubusercontent.com/60678482/160945749-2c959c2c-9cef-48b6-8b86-c78e4993f498.png" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/60678482/160945749-2c959c2c-9cef-48b6-8b86-c78e4993f498.png" /> </p>
+![alt text](https://user-images.githubusercontent.com/60678482/160945749-2c959c2c-9cef-48b6-8b86-c78e4993f498.png?raw=true)
